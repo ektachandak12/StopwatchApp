@@ -93,7 +93,7 @@ This application is open-source and available for personal and educational use.
 
 ## ✉️ Contact
 
-For feedback or suggestions, please contact: `your.email@example.com`
+For feedback or suggestions, please contact: ektachandak.edu@gmail.com
 
 ---
 
